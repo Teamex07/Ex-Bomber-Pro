@@ -66,7 +66,8 @@ function App() {
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, Talegram https://t.me/Teamex07 or join our Slack channel.
 
 
 ## Download 
+<a href="ExBomber.apk">DOWNLOAD NOW</a>
