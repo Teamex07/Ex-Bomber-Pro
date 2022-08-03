@@ -25,25 +25,21 @@ To deploy this project run
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+-Ui & Ux Design 
+- No Email Log In
+- No Key Approval
+- This Apk Totally Free
+- An Fast Bangladeshi Call+Sms+Email Bomber
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at teamex202207@gmail.com
 
 
 ## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
+<embed src="" height="200" width="200"/>
     
 
 
@@ -53,13 +49,11 @@ Install my-project with npm
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## Usage/Examples
+## Terms & Conditions 
 
 ```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
+We have some terms and conditions.
+if you Don't follow them,We will be not responsible for your illegal activities.../>
 }
 ```
 
