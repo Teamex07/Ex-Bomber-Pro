@@ -14,7 +14,7 @@ An Fast Bangladeshi Call+Sms+Email Bomber
 - [@TEAM EX](https://t.me/Teamex07)
 
 
-## Development By
+## Developer By
 
 
 <a href="https://t.me/Teamex07">TEAM EX</a>
