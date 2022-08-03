@@ -17,8 +17,7 @@ An Fast Bangladeshi Call+Sms+Email Bomber
 ## Development By
 
 
-```TEAM EX
-```
+<a href="https://t.me/Teamex07">TEAM EX</a>
 
 
 ## Features
@@ -30,7 +29,8 @@ An Fast Bangladeshi Call+Sms+Email Bomber
 - [04] EMAIL BOMBER AMOUNT 50 ✅
 - [06] EMAIL LOG IN TURNED OF
 - [07] KEY APPROVAL TURNED OFF ✅
-- ALL ACTIVITY UNLOCKED ✅
+- [08]ALL ACTIVITY UNLOCKED ✅
+- [09]APP TOTALLY FREE😊
 
 
 
@@ -41,9 +41,7 @@ If you have any feedback, please reach out to us at teamex202207@gmail.com
 
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Terms & Conditions 
