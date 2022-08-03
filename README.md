@@ -5,7 +5,7 @@ An Fast Bangladeshi,Pakistan,India Call+Sms+Email Bomber
 
 ## Demo
 
-![video](ex.mp4)
+<embed src="ex.mp4" height="200" width="200"/>
 
 
 ## Authors
