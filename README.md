@@ -59,4 +59,4 @@ For support, Talegram <a href="https://t.me/Teamex07">Talegram</a> join our chan
 
 
 ## Download 
-<a href="ExBomber.apk">DOWNLOAD NOW</a>
+<a href="https://github.com/Teamex07/Ex-Bomber-Pro/blob/main/ExBomber.apk">DOWNLOAD NOW</a>
