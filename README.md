@@ -66,7 +66,7 @@ function App() {
 
 ## Support
 
-For support, Talegram https://t.me/Teamex07 or join our Slack channel.
+For support, Talegram <a href="https://t.me/Teamex07">Talegram</a> join our channel.
 
 
 ## Download 
