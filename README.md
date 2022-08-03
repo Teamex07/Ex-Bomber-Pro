@@ -25,23 +25,20 @@ To deploy this project run
 
 ## Features
 
--Ui & Ux Design 
-- No Email Log In
-- No Key Approval
-- This Apk Totally Free
-- An Fast Bangladeshi Call+Sms+Email Bomber
+
+- [01] SMS BOMBER 10 API ✅
+- [02] EMAIL BOMBER 2 API ✅
+- [03] SMS BOMBER AMOUNT 200 ✅
+- [04] EMAIL BOMBER AMOUNT 50 ✅
+- [06] EMAIL LOG IN TURNED OF
+- [07] KEY APPROVAL TURNED OFF ✅
+- ALL ACTIVITY UNLOCKED ✅
+
 
 
 ## Feedback
 
 If you have any feedback, please reach out to us at teamex202207@gmail.com
-
-
-## Installation
-
-<iframe width="420" height="345"
-src="https://t.me/Teamex07/209">
-</iframe>
     
 
 
