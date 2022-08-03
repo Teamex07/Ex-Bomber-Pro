@@ -39,7 +39,9 @@ If you have any feedback, please reach out to us at teamex202207@gmail.com
 
 ## Installation
 
-<embed src="https://t.me/Teamex07/209" height="200" width="200"/>
+<iframe width="420" height="345"
+src="https://t.me/Teamex07/209">
+</iframe>
     
 
 
