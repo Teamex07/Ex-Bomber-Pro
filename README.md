@@ -1,5 +1,5 @@
 # Ex-Bomber-Pro
-An Fast Bangladeshi,Pakistan,India Call+Sms+Email Bomber
+An Fast Bangladeshi Call+Sms+Email Bomber
  
 ![Logo](received_1025986074757503.webp)
 
@@ -39,7 +39,7 @@ If you have any feedback, please reach out to us at teamex202207@gmail.com
 
 ## Installation
 
-<embed src="" height="200" width="200"/>
+<embed src="https://t.me/Teamex07/209" height="200" width="200"/>
     
 
 
