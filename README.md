@@ -11,15 +11,13 @@ An Fast Bangladeshi Call+Sms+Email Bomber
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@TEAM EX](https://t.me/Teamex07)
 
 
-## Deployment
+## Development By
 
-To deploy this project run
 
-```bash
-  npm run deploy
+```TEAM EX
 ```
 
 
